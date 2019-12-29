@@ -1,4 +1,4 @@
-local Ratio = 0.8
+local Ratio = 0.9
 
 _G = GLOBAL
 
